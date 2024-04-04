@@ -1,4 +1,4 @@
-# PoliticPulse Introduction
+# PoliticPulse
 *Sentiment Analysis Prediction*
 
 ## Welcome
