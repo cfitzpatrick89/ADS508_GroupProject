@@ -25,10 +25,12 @@ Data are stored on public AWS S3 Bucket (s3://ads508team5/). There are 4 files i
 *	US cities: s3://ads508team5/cities/uscities.csv
 
 
-### How to start EDA notebook
+### How to start project
 1.	Clone : [https://github.com/HNStaggs/ADS508_GroupProject.git](https://github.com/HNStaggs/ADS508_GroupProject.git)<p>
 2.	Run all the files in Setup folder<p>
-3.	Open EDA.ipnyb<p>
+3.	Open EDA.ipnyb - Run All <p>
+4.	Open Transformation_Partition.ipnyb - Run All <p>
+5.	Open Modeling.ipnyb - Run All <p>
 
 ### Tools
 1.	Python (Jupyterlab notebook)<p>
