@@ -32,6 +32,6 @@ Data are stored on public AWS S3 Bucket (s3://ads508team5/). There are 4 files i
 
 ### Tools
 1.	Python (Jupyterlab notebook)<p>
-2.	AWS (Sagemaker, Athena, S3)<p>
+2.	AWS (Sagemaker, Athena, S3, DataWrangler, AutoPilot)<p>
 3.	Google Doc<p>
 4.	Powerpoint<p>
