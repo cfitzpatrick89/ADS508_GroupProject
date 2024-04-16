@@ -28,9 +28,9 @@ Data are stored on public AWS S3 Bucket (s3://ads508team5/). There are 4 files i
 ### How to start project
 1.	Clone : [https://github.com/HNStaggs/ADS508_GroupProject.git](https://github.com/HNStaggs/ADS508_GroupProject.git)<p>
 2.	Run all the files in Setup folder<p>
-3.	Open EDA.ipnyb - Run All <p>
-4.	Open Partition_Transform.ipnyb - Run All <p>
-5.	Open Modeling.ipnyb - Run All <p>
+3.	Open EDA.ipnyb - Run All with ml.m5.large instance <p>
+4.	Open Partition_Transform.ipnyb - Run All with ml.m5.large instance  <p>
+5.	Open Modeling.ipnyb - Run All with ml.m5.large instance  <p>
 
 ### Tools
 1.	Python (Jupyterlab notebook)<p>
